@@ -4,7 +4,7 @@ Personal webpage, to be hosted on GitHub pages.
 
 Pure Vanilla because I wanted to try it ;)
 
-## See it live: https://www.offirmo.net/
+## See it live: hasnine.github.io
 
 ## Credits
 - Fira sans https://github.com/mozilla/Fira
