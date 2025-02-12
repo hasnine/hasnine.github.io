@@ -1,29 +1,33 @@
 {
-  "name": "creative",
-  "title": "Creative",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-  },
-  "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3",
-    "magnific-popup": "^1.1.0",
-    "scrollreveal": "^3.1.4"
+  "name": "offirmo.github.io",
+  "version": "0.0.1",
+  "description": "Offirmo's showcase website",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'no build!!!'",
+    "test": "echo 'no tests !'"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "git+https://github.com/Offirmo/offirmo.github.io.git"
+  },
+  "keywords": [
+    "showcase",
+    "website"
+  ],
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Offirmo/offirmo.github.io/issues"
+  },
+  "homepage": "https://github.com/Offirmo/offirmo.github.io#readme",
+  "dependencies": {
+    "baffle": "^0.3",
+    "in-view": "^0.6",
+    "tachyons": "^4"
+  },
+  "devDependencies": {
+    "tachyons-debug": "^1"
   }
 }
